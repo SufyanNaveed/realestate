@@ -1,0 +1,297 @@
+[07-Aug-2018 16:27:28 America/Chicago] PHP Fatal error:  Call to undefined method Inbox::check_login() in /home/habrorealestate/public_html/beta/application/controllers/Inbox.php on line 15
+[07-Aug-2018 21:46:05 America/Chicago] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF) in /home/habrorealestate/public_html/beta/application/views/includes/header.php on line 61
+[07-Aug-2018 21:47:45 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/habrorealestate/public_html/beta/application/views/includes/header.php on line 65
+[07-Aug-2018 21:50:34 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/habrorealestate/public_html/beta/application/views/includes/header.php on line 95
+[08-Aug-2018 12:18:30 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/habrorealestate/public_html/beta/application/views/user_profile.php on line 75
+[08-Aug-2018 14:19:03 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/habrorealestate/public_html/beta/application/controllers/Dashboard.php on line 50
+[08-Aug-2018 18:15:31 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/habrorealestate/public_html/beta/application/views/agents_view.php on line 58
+[12-Aug-2018 20:07:10 America/Chicago] PHP Parse error:  syntax error, unexpected 'exit' (T_EXIT) in /home/habrorealestate/public_html/beta/application/controllers/Dashboard.php on line 274
+[12-Aug-2018 20:32:30 America/Chicago] PHP Fatal error:  Call to a member function user_data() on null in /home/habrorealestate/public_html/beta/application/views/post_listing.php on line 1064
+[12-Aug-2018 20:32:35 America/Chicago] PHP Fatal error:  Call to a member function user_data() on null in /home/habrorealestate/public_html/beta/application/views/post_listing.php on line 1064
+[12-Aug-2018 20:32:49 America/Chicago] PHP Fatal error:  Call to a member function user_data() on null in /home/habrorealestate/public_html/beta/application/views/post_listing.php on line 1064
+[12-Aug-2018 20:33:23 America/Chicago] PHP Fatal error:  Call to a member function user_data() on null in /home/habrorealestate/public_html/beta/application/views/post_listing.php on line 1064
+[12-Aug-2018 20:33:59 America/Chicago] PHP Fatal error:  Call to a member function userdata() on null in /home/habrorealestate/public_html/beta/application/views/post_listing.php on line 1064
+[13-Aug-2018 21:01:12 America/Chicago] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/habrorealestate/public_html/beta/application/controllers/Dashboard.php on line 186
+[13-Aug-2018 21:02:01 America/Chicago] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/habrorealestate/public_html/beta/application/controllers/Dashboard.php on line 186
+[13-Aug-2018 21:26:50 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/habrorealestate/public_html/beta/application/views/dashboard.php on line 209
+[13-Aug-2018 21:35:38 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/habrorealestate/public_html/beta/application/views/dashboard.php on line 213
+[14-Aug-2018 11:07:48 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/habrorealestate/public_html/beta/application/views/dashboard.php on line 235
+[14-Aug-2018 11:08:33 America/Chicago] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF) in /home/habrorealestate/public_html/beta/application/views/dashboard.php on line 235
+[14-Aug-2018 11:09:19 America/Chicago] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF) in /home/habrorealestate/public_html/beta/application/views/dashboard.php on line 235
+[14-Aug-2018 18:28:29 America/Chicago] PHP Parse error:  syntax error, unexpected '$cpt' (T_VARIABLE) in /home/habrorealestate/public_html/beta/application/controllers/Dashboard.php on line 866
+[14-Aug-2018 19:32:47 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/habrorealestate/public_html/beta/application/controllers/Messagebox.php on line 16
+[14-Aug-2018 20:08:01 America/Chicago] PHP Fatal error:  Call to a member function update_user_wallet() on null in /home/habrorealestate/public_html/beta/application/controllers/Messagebox.php on line 41
+[14-Aug-2018 20:09:20 America/Chicago] PHP Fatal error:  Call to a member function update_user_wallet() on null in /home/habrorealestate/public_html/beta/application/controllers/Messagebox.php on line 41
+[14-Aug-2018 20:10:03 America/Chicago] PHP Fatal error:  Call to a member function update_user_wallet() on null in /home/habrorealestate/public_html/beta/application/controllers/Messagebox.php on line 41
+[14-Aug-2018 20:10:25 America/Chicago] PHP Fatal error:  Call to a member function update_user_wallet() on null in /home/habrorealestate/public_html/beta/application/controllers/Messagebox.php on line 41
+[14-Aug-2018 20:49:22 America/Chicago] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/habrorealestate/public_html/beta/application/models/Messagebox_model.php on line 44
+[14-Aug-2018 20:49:24 America/Chicago] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/habrorealestate/public_html/beta/application/models/Messagebox_model.php on line 44
+[14-Aug-2018 20:49:26 America/Chicago] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/habrorealestate/public_html/beta/application/models/Messagebox_model.php on line 44
+[14-Aug-2018 20:49:29 America/Chicago] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/habrorealestate/public_html/beta/application/models/Messagebox_model.php on line 44
+[16-Aug-2018 15:39:54 America/Chicago] PHP Parse error:  syntax error, unexpected ''assets/css/' (T_ENCAPSED_AND_WHITESPACE) in /home/habrorealestate/public_html/beta/application/views/property_managment.php on line 220
+[16-Aug-2018 15:41:33 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/habrorealestate/public_html/beta/application/views/property_managment.php on line 477
+[16-Aug-2018 15:41:36 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/habrorealestate/public_html/beta/application/views/property_managment.php on line 477
+[16-Aug-2018 15:47:27 America/Chicago] PHP Parse error:  syntax error, unexpected '?>' in /home/habrorealestate/public_html/beta/application/views/property_managment.php on line 288
+[16-Aug-2018 15:47:29 America/Chicago] PHP Parse error:  syntax error, unexpected '?>' in /home/habrorealestate/public_html/beta/application/views/property_managment.php on line 288
+[16-Aug-2018 16:38:51 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/habrorealestate/public_html/beta/application/views/includes/property_managment_sidebar.php on line 13
+[17-Aug-2018 17:37:12 America/Chicago] PHP Parse error:  syntax error, unexpected '6' (T_LNUMBER) in /home/habrorealestate/public_html/beta/application/models/Dashboard_model.php on line 261
+[17-Aug-2018 17:37:29 America/Chicago] PHP Parse error:  syntax error, unexpected '6' (T_LNUMBER) in /home/habrorealestate/public_html/beta/application/models/Dashboard_model.php on line 272
+[17-Aug-2018 17:41:43 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/habrorealestate/public_html/beta/application/models/Dashboard_model.php on line 280
+[17-Aug-2018 17:42:14 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/habrorealestate/public_html/beta/application/models/Dashboard_model.php on line 280
+[17-Aug-2018 17:43:17 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/habrorealestate/public_html/beta/application/models/Dashboard_model.php on line 280
+[17-Aug-2018 17:45:14 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/habrorealestate/public_html/beta/application/models/Dashboard_model.php on line 263
+[18-Aug-2018 04:04:25 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/habrorealestate/public_html/beta/application/views/property_managment.php on line 8
+[18-Aug-2018 04:04:59 Asia/Karachi] PHP Parse error:  syntax error, unexpected '}' in /home/habrorealestate/public_html/beta/application/views/property_managment.php on line 8
+[17-Aug-2018 18:36:57 America/Chicago] PHP Parse error:  syntax error, unexpected ''purpose'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/habrorealestate/public_html/beta/application/controllers/Dashboard.php on line 919
+[17-Aug-2018 18:37:24 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting '(' in /home/habrorealestate/public_html/beta/application/controllers/Dashboard.php on line 99
+[18-Aug-2018 04:40:54 Asia/Karachi] PHP Parse error:  syntax error, unexpected end of file in /home/habrorealestate/public_html/beta/application/views/dashboard.php on line 339
+[17-Aug-2018 19:57:37 America/Chicago] PHP Parse error:  syntax error, unexpected 'array' (T_ARRAY) in /home/habrorealestate/public_html/beta/application/models/Dashboard_model.php on line 108
+[18-Aug-2018 07:11:58 Asia/Karachi] PHP Parse error:  syntax error, unexpected end of file in /home/habrorealestate/public_html/beta/application/views/dashboard.php on line 258
+[18-Aug-2018 07:12:40 Asia/Karachi] PHP Parse error:  syntax error, unexpected end of file in /home/habrorealestate/public_html/beta/application/views/dashboard.php on line 261
+[18-Aug-2018 11:37:55 Asia/Karachi] PHP Parse error:  syntax error, unexpected end of file, expecting ',' or ';' in /home/habrorealestate/public_html/beta/application/views/dashboard.php on line 86
+[18-Aug-2018 11:53:07 Asia/Karachi] PHP Parse error:  syntax error, unexpected end of file, expecting ',' or ';' in /home/habrorealestate/public_html/beta/application/views/dashboard.php on line 86
+[28-Aug-2018 20:59:40 Asia/Karachi] PHP Parse error:  syntax error, unexpected end of file in /home/habrorealestate/public_html/beta/application/views/dashboard.php on line 258
+[28-Aug-2018 21:00:11 Asia/Karachi] PHP Parse error:  syntax error, unexpected end of file in /home/habrorealestate/public_html/beta/application/views/dashboard.php on line 258
+[02-Sep-2018 02:09:03 Asia/Karachi] PHP Parse error:  syntax error, unexpected ')', expecting '(' in /home/habrorealestate/public_html/beta/application/views/user_roles.php on line 40
+[02-Sep-2018 02:09:39 Asia/Karachi] PHP Parse error:  syntax error, unexpected end of file in /home/habrorealestate/public_html/beta/application/views/user_roles.php on line 182
+[02-Sep-2018 02:15:04 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/habrorealestate/public_html/beta/application/views/user_roles.php on line 40
+[01-Sep-2018 16:17:01 America/Chicago] PHP Parse error:  syntax error, unexpected ''Ren' (T_ENCAPSED_AND_WHITESPACE) in /home/habrorealestate/public_html/beta/application/models/Dashboard_model.php on line 333
+[01-Sep-2018 16:44:16 America/Chicago] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/habrorealestate/public_html/beta/application/controllers/Dashboard.php on line 137
+[01-Sep-2018 16:56:20 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting '(' in /home/habrorealestate/public_html/beta/application/controllers/Dashboard.php on line 99
+[01-Sep-2018 17:01:31 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/habrorealestate/public_html/beta/application/controllers/Dashboard.php on line 141
+[01-Sep-2018 17:15:11 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/habrorealestate/public_html/beta/application/controllers/Dashboard.php on line 609
+[02-Sep-2018 03:18:45 Asia/Karachi] PHP Parse error:  syntax error, unexpected '}' in /home/habrorealestate/public_html/beta/application/views/user_roles.php on line 169
+[01-Sep-2018 17:31:52 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/habrorealestate/public_html/beta/application/models/Dashboard_model.php on line 108
+[02-Sep-2018 03:36:35 Asia/Karachi] PHP Parse error:  syntax error, unexpected end of file in /home/habrorealestate/public_html/beta/application/views/includes/header.php on line 185
+[02-Sep-2018 03:37:15 Asia/Karachi] PHP Parse error:  syntax error, unexpected end of file in /home/habrorealestate/public_html/beta/application/views/includes/header.php on line 185
+[02-Sep-2018 03:38:17 Asia/Karachi] PHP Parse error:  syntax error, unexpected end of file in /home/habrorealestate/public_html/beta/application/views/includes/header.php on line 185
+[02-Sep-2018 03:41:27 Asia/Karachi] PHP Parse error:  syntax error, unexpected end of file in /home/habrorealestate/public_html/beta/application/views/includes/header.php on line 186
+[01-Sep-2018 18:05:18 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/habrorealestate/public_html/beta/application/controllers/Dashboard.php on line 304
+[02-Sep-2018 04:38:42 Asia/Karachi] PHP Parse error:  syntax error, unexpected end of file in /home/habrorealestate/public_html/beta/application/views/post_listing.php on line 457
+[13-Sep-2018 20:29:53 Asia/Karachi] PHP Fatal error:  Call to undefined method Dashboard_model::get_countires() in /home/habrorealestate/public_html/beta/application/controllers/Dashboard.php on line 1348
+[13-Sep-2018 20:31:04 Asia/Karachi] PHP Fatal error:  Call to undefined method Dashboard_model::get_countires() in /home/habrorealestate/public_html/beta/application/controllers/Dashboard.php on line 1348
+[13-Sep-2018 20:31:08 Asia/Karachi] PHP Fatal error:  Call to undefined method Dashboard_model::get_countires() in /home/habrorealestate/public_html/beta/application/controllers/Dashboard.php on line 1348
+[13-Sep-2018 10:31:35 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/habrorealestate/public_html/beta/application/models/Dashboard_model.php on line 102
+[13-Sep-2018 12:05:08 America/Chicago] PHP Parse error:  syntax error, unexpected ''thrd_loc' (T_ENCAPSED_AND_WHITESPACE) in /home/habrorealestate/public_html/beta/application/controllers/Dashboard.php on line 283
+[13-Sep-2018 12:10:52 America/Chicago] PHP Parse error:  syntax error, unexpected ''post' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/habrorealestate/public_html/beta/application/controllers/Dashboard.php on line 1162
+[13-Sep-2018 12:23:38 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/habrorealestate/public_html/beta/application/controllers/Dashboard.php on line 88
+[13-Sep-2018 12:26:25 America/Chicago] PHP Parse error:  syntax error, unexpected ''thrd_loc' (T_ENCAPSED_AND_WHITESPACE) in /home/habrorealestate/public_html/beta/application/controllers/Dashboard.php on line 283
+[13-Sep-2018 12:36:30 America/Chicago] PHP Parse error:  syntax error, unexpected ''city_name'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/habrorealestate/public_html/beta/application/controllers/Dashboard.php on line 1399
+[13-Sep-2018 12:36:32 America/Chicago] PHP Parse error:  syntax error, unexpected ''city_name'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/habrorealestate/public_html/beta/application/controllers/Dashboard.php on line 1399
+[13-Sep-2018 23:02:09 Asia/Karachi] PHP Parse error:  syntax error, unexpected '}' in /home/habrorealestate/public_html/beta/application/views/includes/extra_sidebar.php on line 113
+[13-Sep-2018 23:02:12 Asia/Karachi] PHP Parse error:  syntax error, unexpected '}' in /home/habrorealestate/public_html/beta/application/views/includes/extra_sidebar.php on line 113
+[13-Sep-2018 23:02:18 Asia/Karachi] PHP Parse error:  syntax error, unexpected '}' in /home/habrorealestate/public_html/beta/application/views/includes/extra_sidebar.php on line 113
+[13-Sep-2018 23:02:36 Asia/Karachi] PHP Parse error:  syntax error, unexpected '}' in /home/habrorealestate/public_html/beta/application/views/includes/extra_sidebar.php on line 113
+[13-Sep-2018 23:02:44 Asia/Karachi] PHP Parse error:  syntax error, unexpected '}' in /home/habrorealestate/public_html/beta/application/views/includes/extra_sidebar.php on line 113
+[13-Sep-2018 23:03:47 Asia/Karachi] PHP Parse error:  syntax error, unexpected '}' in /home/habrorealestate/public_html/beta/application/views/includes/extra_sidebar.php on line 113
+[13-Sep-2018 23:03:49 Asia/Karachi] PHP Parse error:  syntax error, unexpected '}' in /home/habrorealestate/public_html/beta/application/views/includes/extra_sidebar.php on line 113
+[13-Sep-2018 23:04:26 Asia/Karachi] PHP Fatal error:  Call to undefined method Dashboard_model::get_society() in /home/habrorealestate/public_html/beta/application/controllers/Dashboard.php on line 1425
+[13-Sep-2018 13:20:54 America/Chicago] PHP Parse error:  syntax error, unexpected ''society_name'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/habrorealestate/public_html/beta/application/controllers/Dashboard.php on line 1460
+[13-Sep-2018 13:32:55 America/Chicago] PHP Parse error:  syntax error, unexpected ''post' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/habrorealestate/public_html/beta/application/controllers/Dashboard.php on line 1162
+[13-Sep-2018 13:44:16 America/Chicago] PHP Parse error:  syntax error, unexpected ''thrd_loc' (T_ENCAPSED_AND_WHITESPACE) in /home/habrorealestate/public_html/beta/application/controllers/Dashboard.php on line 283
+[13-Sep-2018 23:58:15 Asia/Karachi] PHP Fatal error:  Call to undefined method Dashboard_model::get_sector() in /home/habrorealestate/public_html/beta/application/controllers/Dashboard.php on line 1549
+[13-Sep-2018 15:17:22 America/Chicago] PHP Fatal error:  Call to a member function get_countries() on null in /home/habrorealestate/public_html/beta/application/controllers/Home.php on line 35
+[13-Sep-2018 16:31:41 America/Chicago] PHP Fatal error:  Cannot redeclare Home::assessment() in /home/habrorealestate/public_html/beta/application/controllers/Home.php on line 62
+[13-Sep-2018 16:31:44 America/Chicago] PHP Fatal error:  Cannot redeclare Home::assessment() in /home/habrorealestate/public_html/beta/application/controllers/Home.php on line 62
+[14-Sep-2018 02:34:37 Asia/Karachi] PHP Fatal error:  Call to undefined method Dashboard_model::insert_assessment() in /home/habrorealestate/public_html/beta/application/controllers/Home.php on line 81
+[16-Sep-2018 00:51:49 Asia/Karachi] PHP Parse error:  syntax error, unexpected end of file in /home/habrorealestate/public_html/beta/application/views/frontend/search.php on line 702
+[16-Sep-2018 00:55:16 Asia/Karachi] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE) in /home/habrorealestate/public_html/beta/application/views/frontend/search.php on line 534
+[16-Sep-2018 00:55:23 Asia/Karachi] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE) in /home/habrorealestate/public_html/beta/application/views/frontend/search.php on line 534
+[16-Sep-2018 00:55:45 Asia/Karachi] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE) in /home/habrorealestate/public_html/beta/application/views/frontend/search.php on line 534
+[16-Sep-2018 00:56:58 Asia/Karachi] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE) in /home/habrorealestate/public_html/beta/application/views/frontend/search.php on line 534
+[23-Sep-2018 16:14:58 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/habrorealestate/public_html/beta/application/controllers/Dashboard.php on line 1162
+[23-Sep-2018 16:15:43 America/Chicago] PHP Warning:  POST Content-Length of 15592062 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[23-Sep-2018 16:17:08 America/Chicago] PHP Warning:  POST Content-Length of 15592062 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[23-Sep-2018 16:18:53 America/Chicago] PHP Warning:  POST Content-Length of 15592062 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[24-Sep-2018 02:27:56 Asia/Karachi] PHP Parse error:  syntax error, unexpected end of file in /home/habrorealestate/public_html/beta/application/views/includes/extra_sidebar.php on line 48
+[24-Sep-2018 02:28:20 Asia/Karachi] PHP Parse error:  syntax error, unexpected '?>' in /home/habrorealestate/public_html/beta/application/views/maps.php on line 47
+[24-Sep-2018 02:28:23 Asia/Karachi] PHP Parse error:  syntax error, unexpected '?>' in /home/habrorealestate/public_html/beta/application/views/maps.php on line 47
+[24-Sep-2018 02:28:27 Asia/Karachi] PHP Parse error:  syntax error, unexpected '?>' in /home/habrorealestate/public_html/beta/application/views/maps.php on line 47
+[24-Sep-2018 02:28:29 Asia/Karachi] PHP Parse error:  syntax error, unexpected '?>' in /home/habrorealestate/public_html/beta/application/views/maps.php on line 47
+[24-Sep-2018 02:28:43 Asia/Karachi] PHP Parse error:  syntax error, unexpected '?>' in /home/habrorealestate/public_html/beta/application/views/maps.php on line 47
+[24-Sep-2018 02:28:47 Asia/Karachi] PHP Parse error:  syntax error, unexpected '?>' in /home/habrorealestate/public_html/beta/application/views/maps.php on line 47
+[24-Sep-2018 02:29:28 Asia/Karachi] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE) in /home/habrorealestate/public_html/beta/application/views/maps.php on line 47
+[26-Sep-2018 12:21:56 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/habrorealestate/public_html/beta/application/views/free_assesment.php on line 38
+[26-Sep-2018 12:22:23 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/habrorealestate/public_html/beta/application/views/free_assesment.php on line 38
+[26-Sep-2018 12:22:26 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/habrorealestate/public_html/beta/application/views/free_assesment.php on line 38
+[29-Sep-2018 07:59:10 America/Chicago] PHP Warning:  POST Content-Length of 15592055 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[16-Oct-2018 08:18:19 America/Chicago] PHP Fatal error:  Cannot redeclare Dashboard_model::get_phase_id() in /home/habrorealestate/public_html/beta/application/models/Dashboard_model.php on line 674
+[21-Oct-2018 01:42:24 Asia/Karachi] PHP Parse error:  syntax error, unexpected ')' in /home/habrorealestate/public_html/beta/application/views/dashboard.php on line 268
+[21-Oct-2018 01:42:43 Asia/Karachi] PHP Parse error:  syntax error, unexpected ')' in /home/habrorealestate/public_html/beta/application/views/dashboard.php on line 269
+[21-Oct-2018 01:43:36 Asia/Karachi] PHP Parse error:  syntax error, unexpected ')' in /home/habrorealestate/public_html/beta/application/views/dashboard.php on line 269
+[21-Oct-2018 01:43:52 Asia/Karachi] PHP Parse error:  syntax error, unexpected ')' in /home/habrorealestate/public_html/beta/application/views/dashboard.php on line 269
+[21-Oct-2018 01:44:17 Asia/Karachi] PHP Parse error:  syntax error, unexpected ')' in /home/habrorealestate/public_html/beta/application/views/dashboard.php on line 268
+[21-Oct-2018 01:46:30 Asia/Karachi] PHP Parse error:  syntax error, unexpected '$date' (T_VARIABLE) in /home/habrorealestate/public_html/beta/application/views/dashboard.php on line 267
+[21-Oct-2018 01:46:34 Asia/Karachi] PHP Parse error:  syntax error, unexpected '$date' (T_VARIABLE) in /home/habrorealestate/public_html/beta/application/views/dashboard.php on line 267
+[21-Oct-2018 01:47:08 Asia/Karachi] PHP Parse error:  syntax error, unexpected '$date' (T_VARIABLE) in /home/habrorealestate/public_html/beta/application/views/dashboard.php on line 267
+[28-Oct-2018 03:06:20 Asia/Karachi] PHP Parse error:  syntax error, unexpected end of file in /home/habrorealestate/public_html/beta/application/views/frontend/post_detail.php on line 343
+[28-Oct-2018 12:20:52 Asia/Karachi] PHP Fatal error:  Can't use function return value in write context in /home/habrorealestate/public_html/beta/application/views/frontend/society_maps.php on line 19
+[28-Oct-2018 12:20:59 Asia/Karachi] PHP Fatal error:  Can't use function return value in write context in /home/habrorealestate/public_html/beta/application/views/frontend/society_maps.php on line 19
+[28-Oct-2018 12:21:10 Asia/Karachi] PHP Fatal error:  Can't use function return value in write context in /home/habrorealestate/public_html/beta/application/views/frontend/society_maps.php on line 19
+[28-Oct-2018 12:22:14 Asia/Karachi] PHP Fatal error:  Can't use function return value in write context in /home/habrorealestate/public_html/beta/application/views/frontend/society_maps.php on line 19
+[28-Oct-2018 12:22:25 Asia/Karachi] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in /home/habrorealestate/public_html/beta/application/views/frontend/society_maps.php on line 19
+[28-Oct-2018 16:03:35 Asia/Karachi] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/habrorealestate/public_html/beta/application/views/dashboard.php on line 268
+[28-Oct-2018 16:32:26 Asia/Karachi] PHP Parse error:  syntax error, unexpected '<' in /home/habrorealestate/public_html/beta/application/views/dashboard.php on line 269
+[28-Oct-2018 17:11:30 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'as' (T_AS) in /home/habrorealestate/public_html/beta/application/views/frontend/index.php on line 441
+[28-Oct-2018 17:11:46 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'as' (T_AS) in /home/habrorealestate/public_html/beta/application/views/frontend/index.php on line 441
+[28-Oct-2018 17:11:50 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'as' (T_AS) in /home/habrorealestate/public_html/beta/application/views/frontend/index.php on line 441
+[28-Oct-2018 17:12:04 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'as' (T_AS) in /home/habrorealestate/public_html/beta/application/views/frontend/index.php on line 441
+[28-Oct-2018 17:12:07 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'as' (T_AS) in /home/habrorealestate/public_html/beta/application/views/frontend/index.php on line 441
+[28-Oct-2018 07:25:48 America/Chicago] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/habrorealestate/public_html/beta/application/models/Dashboard_model.php on line 577
+[01-Nov-2018 01:16:42 Asia/Karachi] PHP Parse error:  syntax error, unexpected '=' in /home/habrorealestate/public_html/beta/application/views/frontend/post_detail.php on line 600
+[31-Oct-2018 16:30:36 America/Chicago] PHP Warning:  POST Content-Length of 15592264 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[31-Oct-2018 16:59:30 America/Chicago] PHP Warning:  POST Content-Length of 15592249 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[14-Nov-2018 10:30:31 America/Chicago] PHP Warning:  POST Content-Length of 15592245 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[19-Nov-2018 07:47:52 America/Chicago] PHP Warning:  POST Content-Length of 15592245 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[20-Nov-2018 15:16:29 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/habrorealestate/public_html/beta/application/controllers/Home.php on line 300
+[20-Nov-2018 15:54:45 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/habrorealestate/public_html/beta/application/controllers/Home.php on line 343
+[21-Nov-2018 07:48:19 America/Chicago] PHP Warning:  POST Content-Length of 19256083 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[21-Nov-2018 07:54:35 America/Chicago] PHP Warning:  POST Content-Length of 19256083 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[21-Nov-2018 08:02:41 America/Chicago] PHP Warning:  POST Content-Length of 8795307 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[21-Nov-2018 08:17:39 America/Chicago] PHP Warning:  POST Content-Length of 34116457 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[22-Nov-2018 16:40:36 Asia/Karachi] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::uniqe() in /home/habrorealestate/public_html/beta/application/controllers/Home.php on line 286
+[22-Nov-2018 16:41:00 Asia/Karachi] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::UNIQUE() in /home/habrorealestate/public_html/beta/application/controllers/Home.php on line 286
+[01-Dec-2018 17:11:02 Asia/Karachi] PHP Fatal error:  Call to undefined method Dashboard_model::update_profile() in /home/habrorealestate/public_html/beta/application/controllers/Dashboard.php on line 72
+[02-Dec-2018 10:19:10 America/Chicago] PHP Fatal error:  Cannot redeclare Home::contact_us() in /home/habrorealestate/public_html/beta/application/controllers/Home.php on line 571
+[02-Dec-2018 11:26:56 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/habrorealestate/public_html/beta/application/controllers/Dashboard.php on line 284
+[04-Dec-2018 00:39:34 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'id' (T_STRING) in /home/habrorealestate/public_html/beta/application/views/dashboard.php on line 319
+[04-Dec-2018 00:39:37 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'id' (T_STRING) in /home/habrorealestate/public_html/beta/application/views/dashboard.php on line 319
+[04-Dec-2018 00:42:28 Asia/Karachi] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE) in /home/habrorealestate/public_html/beta/application/views/dashboard.php on line 319
+[04-Dec-2018 00:46:17 Asia/Karachi] PHP Parse error:  syntax error, unexpected '<' in /home/habrorealestate/public_html/beta/application/views/dashboard.php on line 319
+[04-Dec-2018 00:47:16 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'id' (T_STRING) in /home/habrorealestate/public_html/beta/application/views/dashboard.php on line 319
+[04-Dec-2018 00:47:29 Asia/Karachi] PHP Parse error:  syntax error, unexpected '=' in /home/habrorealestate/public_html/beta/application/views/dashboard.php on line 319
+[04-Dec-2018 01:09:17 Asia/Karachi] PHP Fatal error:  Call to undefined method Dashboard_model::update_profile() in /home/habrorealestate/public_html/beta/application/controllers/Dashboard.php on line 72
+[04-Dec-2018 01:36:05 Asia/Karachi] PHP Parse error:  syntax error, unexpected end of file in /home/habrorealestate/public_html/beta/application/views/post_listing.php on line 2733
+[04-Dec-2018 01:39:22 Asia/Karachi] PHP Parse error:  syntax error, unexpected end of file in /home/habrorealestate/public_html/beta/application/views/post_listing.php on line 362
+[08-Dec-2018 00:37:56 Asia/Karachi] PHP Parse error:  syntax error, unexpected '".post_ads_id "' (T_CONSTANT_ENCAPSED_STRING) in /home/habrorealestate/public_html/beta/application/views/dashboard.php on line 360
+[08-Dec-2018 00:49:53 Asia/Karachi] PHP Parse error:  syntax error, unexpected end of file in /home/habrorealestate/public_html/beta/application/views/post_listing.php on line 950
+[08-Dec-2018 01:14:02 Asia/Karachi] PHP Parse error:  syntax error, unexpected end of file in /home/habrorealestate/public_html/beta/application/views/frontend/post_detail.php on line 2154
+[08-Dec-2018 01:14:05 Asia/Karachi] PHP Parse error:  syntax error, unexpected end of file in /home/habrorealestate/public_html/beta/application/views/frontend/post_detail.php on line 2431
+[08-Dec-2018 01:14:10 Asia/Karachi] PHP Parse error:  syntax error, unexpected end of file in /home/habrorealestate/public_html/beta/application/views/frontend/post_detail.php on line 2431
+[08-Dec-2018 01:14:13 Asia/Karachi] PHP Parse error:  syntax error, unexpected end of file in /home/habrorealestate/public_html/beta/application/views/frontend/post_detail.php on line 2431
+[08-Dec-2018 01:41:25 Asia/Karachi] PHP Fatal error:  Can't use function return value in write context in /home/habrorealestate/public_html/beta/application/views/frontend/post_detail.php on line 53
+[08-Dec-2018 01:41:38 Asia/Karachi] PHP Fatal error:  Can't use function return value in write context in /home/habrorealestate/public_html/beta/application/views/frontend/post_detail.php on line 53
+[08-Dec-2018 01:41:41 Asia/Karachi] PHP Fatal error:  Can't use function return value in write context in /home/habrorealestate/public_html/beta/application/views/frontend/post_detail.php on line 53
+[08-Dec-2018 01:43:06 Asia/Karachi] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 130547712 bytes) in /home/habrorealestate/public_html/beta/system/core/Exceptions.php on line 271
+[08-Dec-2018 01:43:18 Asia/Karachi] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 130547712 bytes) in /home/habrorealestate/public_html/beta/system/core/Exceptions.php on line 271
+[08-Dec-2018 01:43:56 Asia/Karachi] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 130547712 bytes) in /home/habrorealestate/public_html/beta/system/core/Exceptions.php on line 271
+[08-Dec-2018 01:44:33 Asia/Karachi] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 130547712 bytes) in /home/habrorealestate/public_html/beta/system/core/Exceptions.php on line 271
+[08-Dec-2018 01:45:14 Asia/Karachi] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 130547712 bytes) in /home/habrorealestate/public_html/beta/system/core/Exceptions.php on line 271
+[08-Dec-2018 01:45:24 Asia/Karachi] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 130547712 bytes) in /home/habrorealestate/public_html/beta/system/core/Exceptions.php on line 271
+[10-Dec-2018 18:14:18 Asia/Karachi] PHP Parse error:  syntax error, unexpected '}' in /home/habrorealestate/public_html/beta/application/views/frontend/post_detail.php on line 63
+[10-Dec-2018 18:24:34 Asia/Karachi] PHP Parse error:  syntax error, unexpected '?>' in /home/habrorealestate/public_html/beta/application/views/frontend/post_detail.php on line 57
+[10-Dec-2018 18:25:10 Asia/Karachi] PHP Parse error:  syntax error, unexpected '?>' in /home/habrorealestate/public_html/beta/application/views/frontend/post_detail.php on line 57
+[10-Dec-2018 18:25:13 Asia/Karachi] PHP Parse error:  syntax error, unexpected '?>' in /home/habrorealestate/public_html/beta/application/views/frontend/post_detail.php on line 57
+[12-Dec-2018 02:41:55 Asia/Karachi] PHP Parse error:  syntax error, unexpected end of file in /home/habrorealestate/public_html/beta/application/views/post_listing.php on line 2302
+[12-Dec-2018 02:44:42 Asia/Karachi] PHP Parse error:  syntax error, unexpected end of file in /home/habrorealestate/public_html/beta/application/views/post_listing.php on line 2132
+[12-Dec-2018 03:52:14 Asia/Karachi] PHP Parse error:  syntax error, unexpected end of file in /home/habrorealestate/public_html/beta/application/views/post_listing.php on line 2037
+[13-Dec-2018 19:08:06 Asia/Karachi] PHP Parse error:  syntax error, unexpected end of file in /home/habrorealestate/public_html/beta/application/views/frontend/post_detail.php on line 330
+[13-Dec-2018 19:15:55 Asia/Karachi] PHP Parse error:  syntax error, unexpected '<' in /home/habrorealestate/public_html/beta/application/views/frontend/society_maps.php on line 24
+[13-Dec-2018 19:16:36 Asia/Karachi] PHP Parse error:  syntax error, unexpected '<' in /home/habrorealestate/public_html/beta/application/views/frontend/society_maps.php on line 25
+[13-Dec-2018 19:16:38 Asia/Karachi] PHP Parse error:  syntax error, unexpected '<' in /home/habrorealestate/public_html/beta/application/views/frontend/society_maps.php on line 25
+[13-Dec-2018 19:17:29 Asia/Karachi] PHP Parse error:  syntax error, unexpected '<' in /home/habrorealestate/public_html/beta/application/views/frontend/society_maps.php on line 25
+[13-Dec-2018 19:17:43 Asia/Karachi] PHP Parse error:  syntax error, unexpected '<' in /home/habrorealestate/public_html/beta/application/views/frontend/society_maps.php on line 25
+[13-Dec-2018 19:19:21 Asia/Karachi] PHP Fatal error:  Can't use method return value in write context in /home/habrorealestate/public_html/beta/application/views/frontend/society_maps.php on line 21
+[14-Dec-2018 02:42:42 Asia/Karachi] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/habrorealestate/public_html/beta/application/views/frontend/post_detail.php on line 612
+[14-Dec-2018 02:45:22 Asia/Karachi] PHP Parse error:  syntax error, unexpected '[', expecting variable (T_VARIABLE) or '$' in /home/habrorealestate/public_html/beta/application/views/frontend/post_detail.php on line 620
+[14-Dec-2018 02:45:34 Asia/Karachi] PHP Parse error:  syntax error, unexpected '[', expecting variable (T_VARIABLE) or '$' in /home/habrorealestate/public_html/beta/application/views/frontend/post_detail.php on line 620
+[14-Dec-2018 02:58:01 Asia/Karachi] PHP Parse error:  syntax error, unexpected '$society' (T_VARIABLE) in /home/habrorealestate/public_html/beta/application/views/frontend/post_detail.php on line 9
+[18-Dec-2018 18:52:34 Asia/Karachi] PHP Parse error:  syntax error, unexpected '}' in /home/habrorealestate/public_html/beta/application/views/edit_post_listing.php on line 1548
+[18-Dec-2018 18:53:20 Asia/Karachi] PHP Parse error:  syntax error, unexpected '}' in /home/habrorealestate/public_html/beta/application/views/edit_post_listing.php on line 1562
+[18-Dec-2018 18:53:24 Asia/Karachi] PHP Parse error:  syntax error, unexpected '}' in /home/habrorealestate/public_html/beta/application/views/edit_post_listing.php on line 1562
+[18-Dec-2018 18:57:11 Asia/Karachi] PHP Parse error:  syntax error, unexpected end of file in /home/habrorealestate/public_html/beta/application/views/edit_post_listing.php on line 1309
+[18-Dec-2018 19:13:39 Asia/Karachi] PHP Parse error:  syntax error, unexpected end of file in /home/habrorealestate/public_html/beta/application/views/edit_post_listing.php on line 976
+[18-Dec-2018 19:31:32 Asia/Karachi] PHP Parse error:  syntax error, unexpected ';' in /home/habrorealestate/public_html/beta/application/views/dashboard.php on line 236
+[18-Dec-2018 19:34:20 Asia/Karachi] PHP Parse error:  syntax error, unexpected end of file in /home/habrorealestate/public_html/beta/application/views/edit_post_listing.php on line 321
+[18-Dec-2018 20:28:41 Asia/Karachi] PHP Parse error:  syntax error, unexpected '}' in /home/habrorealestate/public_html/beta/application/views/edit_post_listing.php on line 1577
+[18-Dec-2018 20:28:43 Asia/Karachi] PHP Parse error:  syntax error, unexpected '}' in /home/habrorealestate/public_html/beta/application/views/edit_post_listing.php on line 1577
+[18-Dec-2018 20:29:42 Asia/Karachi] PHP Parse error:  syntax error, unexpected end of file in /home/habrorealestate/public_html/beta/application/views/edit_post_listing.php on line 1804
+[18-Dec-2018 20:29:46 Asia/Karachi] PHP Parse error:  syntax error, unexpected end of file in /home/habrorealestate/public_html/beta/application/views/edit_post_listing.php on line 1804
+[18-Dec-2018 20:45:04 Asia/Karachi] PHP Parse error:  syntax error, unexpected '[', expecting variable (T_VARIABLE) or '$' in /home/habrorealestate/public_html/beta/application/views/edit_post_listing.php on line 369
+[19-Dec-2018 02:49:15 Asia/Karachi] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/habrorealestate/public_html/beta/application/views/frontend/post_detail.php on line 87
+[19-Dec-2018 02:49:18 Asia/Karachi] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/habrorealestate/public_html/beta/application/views/frontend/post_detail.php on line 87
+[19-Dec-2018 03:26:44 Asia/Karachi] PHP Parse error:  syntax error, unexpected end of file in /home/habrorealestate/public_html/beta/application/views/frontend/post_detail.php on line 339
+[22-Dec-2018 03:55:20 Asia/Karachi] PHP Fatal error:  Call to undefined function print_() in /home/habrorealestate/public_html/beta/application/views/frontend/search.php on line 534
+[22-Dec-2018 03:55:22 Asia/Karachi] PHP Fatal error:  Call to undefined function print_() in /home/habrorealestate/public_html/beta/application/views/frontend/search.php on line 534
+[22-Dec-2018 04:39:26 Asia/Karachi] PHP Parse error:  syntax error, unexpected '}' in /home/habrorealestate/public_html/beta/application/views/frontend/index.php on line 21
+[22-Dec-2018 04:51:51 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/habrorealestate/public_html/beta/application/views/frontend/index.php on line 12
+[28-Dec-2018 16:41:33 Asia/Karachi] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/habrorealestate/public_html/beta/application/views/frontend/index.php on line 18
+[28-Dec-2018 16:41:44 Asia/Karachi] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/habrorealestate/public_html/beta/application/views/frontend/index.php on line 18
+[28-Dec-2018 16:42:04 Asia/Karachi] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/habrorealestate/public_html/beta/application/views/frontend/index.php on line 18
+[28-Dec-2018 16:42:45 Asia/Karachi] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/habrorealestate/public_html/beta/application/views/frontend/index.php on line 18
+[28-Dec-2018 16:42:49 Asia/Karachi] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/habrorealestate/public_html/beta/application/views/frontend/index.php on line 18
+[28-Dec-2018 16:43:10 Asia/Karachi] PHP Fatal error:  Method name must be a string in /home/habrorealestate/public_html/beta/application/views/frontend/index.php on line 21
+[28-Dec-2018 16:43:15 Asia/Karachi] PHP Fatal error:  Method name must be a string in /home/habrorealestate/public_html/beta/application/views/frontend/index.php on line 21
+[28-Dec-2018 16:43:18 Asia/Karachi] PHP Fatal error:  Method name must be a string in /home/habrorealestate/public_html/beta/application/views/frontend/index.php on line 21
+[28-Dec-2018 17:37:31 Asia/Karachi] PHP Fatal error:  Call to undefined function limit_words() in /home/habrorealestate/public_html/beta/application/views/frontend/index.php on line 703
+[28-Dec-2018 17:37:39 Asia/Karachi] PHP Fatal error:  Call to undefined function limit_words() in /home/habrorealestate/public_html/beta/application/views/frontend/index.php on line 703
+[28-Dec-2018 17:37:42 Asia/Karachi] PHP Fatal error:  Call to undefined function limit_words() in /home/habrorealestate/public_html/beta/application/views/frontend/index.php on line 703
+[28-Dec-2018 17:38:03 Asia/Karachi] PHP Fatal error:  Call to undefined function limit_words() in /home/habrorealestate/public_html/beta/application/views/frontend/index.php on line 703
+[28-Dec-2018 17:39:01 Asia/Karachi] PHP Fatal error:  Call to undefined function limit_words() in /home/habrorealestate/public_html/beta/application/views/frontend/index.php on line 703
+[28-Dec-2018 17:39:05 Asia/Karachi] PHP Fatal error:  Call to undefined function limit_words() in /home/habrorealestate/public_html/beta/application/views/frontend/index.php on line 703
+[28-Dec-2018 17:39:11 Asia/Karachi] PHP Fatal error:  Call to undefined function limit_words() in /home/habrorealestate/public_html/beta/application/views/frontend/index.php on line 703
+[28-Dec-2018 18:27:25 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'city_id' (T_STRING) in /home/habrorealestate/public_html/beta/application/views/frontend/index.php on line 435
+[31-Dec-2018 20:51:37 Asia/Karachi] PHP Parse error:  syntax error, unexpected end of file in /home/habrorealestate/public_html/beta/application/views/frontend/post_detail.php on line 337
+[02-Jan-2019 13:43:55 UTC] PHP Fatal error:  Cannot redeclare Dashboard::insert_phase() in /home/habrorealestate/public_html/beta/application/controllers/Dashboard.php on line 1565
+[02-Jan-2019 13:43:58 UTC] PHP Fatal error:  Cannot redeclare Dashboard::insert_phase() in /home/habrorealestate/public_html/beta/application/controllers/Dashboard.php on line 1565
+[02-Jan-2019 13:44:31 UTC] PHP Fatal error:  Cannot redeclare Dashboard::insert_phase() in /home/habrorealestate/public_html/beta/application/controllers/Dashboard.php on line 1565
+[02-Jan-2019 13:44:46 UTC] PHP Fatal error:  Cannot redeclare Dashboard::insert_phase() in /home/habrorealestate/public_html/beta/application/controllers/Dashboard.php on line 1565
+[02-Jan-2019 13:44:49 UTC] PHP Fatal error:  Cannot redeclare Dashboard::insert_phase() in /home/habrorealestate/public_html/beta/application/controllers/Dashboard.php on line 1565
+[02-Jan-2019 13:44:51 UTC] PHP Fatal error:  Cannot redeclare Dashboard::insert_phase() in /home/habrorealestate/public_html/beta/application/controllers/Dashboard.php on line 1565
+[02-Jan-2019 13:58:00 UTC] PHP Parse error:  syntax error, unexpected ''se' (T_ENCAPSED_AND_WHITESPACE) in /home/habrorealestate/public_html/beta/application/models/Dashboard_model.php on line 451
+[02-Jan-2019 19:08:13 Asia/Karachi] PHP Parse error:  syntax error, unexpected end of file in /home/habrorealestate/public_html/beta/application/views/post_listing.php on line 48
+[02-Jan-2019 19:36:10 Asia/Karachi] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::wher() in /home/habrorealestate/public_html/beta/application/models/Dashboard_model.php on line 881
+[02-Jan-2019 19:36:22 Asia/Karachi] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::wher() in /home/habrorealestate/public_html/beta/application/models/Dashboard_model.php on line 881
+[02-Jan-2019 19:36:53 Asia/Karachi] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::wher() in /home/habrorealestate/public_html/beta/application/models/Dashboard_model.php on line 881
+[02-Jan-2019 14:37:08 UTC] PHP Parse error:  syntax error, unexpected ''se' (T_ENCAPSED_AND_WHITESPACE) in /home/habrorealestate/public_html/beta/application/models/Dashboard_model.php on line 451
+[03-Jan-2019 01:06:37 Asia/Karachi] PHP Parse error:  syntax error, unexpected '<' in /home/habrorealestate/public_html/beta/application/views/frontend/header.php on line 145
+[03-Jan-2019 01:08:52 Asia/Karachi] PHP Fatal error:  Call to a member function id() on null in /home/habrorealestate/public_html/beta/application/views/frontend/header.php on line 145
+[03-Jan-2019 01:08:54 Asia/Karachi] PHP Fatal error:  Call to a member function id() on null in /home/habrorealestate/public_html/beta/application/views/frontend/header.php on line 145
+[03-Jan-2019 01:09:11 Asia/Karachi] PHP Fatal error:  Call to undefined method CI_Loader::id() in /home/habrorealestate/public_html/beta/application/views/frontend/header.php on line 145
+[03-Jan-2019 01:09:12 Asia/Karachi] PHP Fatal error:  Call to undefined method CI_Loader::id() in /home/habrorealestate/public_html/beta/application/views/frontend/header.php on line 145
+[03-Jan-2019 01:10:26 Asia/Karachi] PHP Parse error:  syntax error, unexpected ';' in /home/habrorealestate/public_html/beta/application/views/frontend/header.php on line 145
+[03-Jan-2019 01:13:11 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/habrorealestate/public_html/beta/application/views/frontend/header.php on line 145
+[03-Jan-2019 01:14:11 Asia/Karachi] PHP Parse error:  syntax error, unexpected ')' in /home/habrorealestate/public_html/beta/application/views/frontend/header.php on line 145
+[03-Jan-2019 15:27:17 Asia/Karachi] PHP Parse error:  syntax error, unexpected '$res' (T_VARIABLE) in /home/habrorealestate/public_html/beta/application/views/frontend/search.php on line 490
+[03-Jan-2019 15:27:21 Asia/Karachi] PHP Parse error:  syntax error, unexpected '$res' (T_VARIABLE) in /home/habrorealestate/public_html/beta/application/views/frontend/search.php on line 490
+[03-Jan-2019 15:27:25 Asia/Karachi] PHP Parse error:  syntax error, unexpected '$res' (T_VARIABLE) in /home/habrorealestate/public_html/beta/application/views/frontend/search.php on line 490
+[03-Jan-2019 15:27:37 Asia/Karachi] PHP Fatal error:  Call to undefined function get() in /home/habrorealestate/public_html/beta/application/views/frontend/search.php on line 490
+[03-Jan-2019 15:27:39 Asia/Karachi] PHP Fatal error:  Call to undefined function get() in /home/habrorealestate/public_html/beta/application/views/frontend/search.php on line 490
+[03-Jan-2019 15:32:13 Asia/Karachi] PHP Parse error:  syntax error, unexpected '$res' (T_VARIABLE) in /home/habrorealestate/public_html/beta/application/views/frontend/search.php on line 490
+[03-Jan-2019 15:32:17 Asia/Karachi] PHP Parse error:  syntax error, unexpected '$res' (T_VARIABLE) in /home/habrorealestate/public_html/beta/application/views/frontend/search.php on line 490
+[03-Jan-2019 15:32:30 Asia/Karachi] PHP Parse error:  syntax error, unexpected '$res' (T_VARIABLE) in /home/habrorealestate/public_html/beta/application/views/frontend/search.php on line 490
+[04-Jan-2019 02:47:28 Asia/Karachi] PHP Parse error:  syntax error, unexpected end of file in /home/habrorealestate/public_html/beta/application/views/frontend/post_detail.php on line 521
+[04-Jan-2019 02:47:31 Asia/Karachi] PHP Parse error:  syntax error, unexpected end of file in /home/habrorealestate/public_html/beta/application/views/frontend/post_detail.php on line 684
+[04-Jan-2019 16:31:21 Asia/Karachi] PHP Parse error:  syntax error, unexpected '$posts' (T_VARIABLE), expecting '(' in /home/habrorealestate/public_html/beta/application/views/frontend/post_detail.php on line 22
+[04-Jan-2019 17:49:59 Asia/Karachi] PHP Parse error:  syntax error, unexpected end of file in /home/habrorealestate/public_html/beta/application/views/frontend/post_detail.php on line 355
+[04-Jan-2019 18:49:35 Asia/Karachi] PHP Parse error:  syntax error, unexpected end of file in /home/habrorealestate/public_html/beta/application/views/frontend/post_detail.php on line 2363
+[04-Jan-2019 21:56:53 Asia/Karachi] PHP Parse error:  syntax error, unexpected end of file in /home/habrorealestate/public_html/beta/application/views/frontend/society_posts_plot.php on line 581
+[04-Jan-2019 21:58:42 Asia/Karachi] PHP Parse error:  syntax error, unexpected '.' in /home/habrorealestate/public_html/beta/application/views/frontend/sector_posts_plot.php on line 7
+[05-Jan-2019 01:45:31 Asia/Karachi] PHP Parse error:  syntax error, unexpected '?' in /home/habrorealestate/public_html/beta/application/views/frontend/post_detail.php on line 159
+[05-Jan-2019 13:53:35 Asia/Karachi] PHP Parse error:  syntax error, unexpected '}' in /home/habrorealestate/public_html/beta/application/views/frontend/search.php on line 785
+[05-Jan-2019 08:57:59 UTC] PHP Parse error:  syntax error, unexpected 'ublic' (T_STRING), expecting function (T_FUNCTION) in /home/habrorealestate/public_html/beta/application/controllers/Home.php on line 173
+[06-Jan-2019 22:21:45 Asia/Karachi] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE) in /home/habrorealestate/public_html/beta/application/views/frontend/search.php on line 426
+[06-Jan-2019 23:55:36 Asia/Karachi] PHP Parse error:  syntax error, unexpected ')' in /home/habrorealestate/public_html/beta/application/views/frontend/search.php on line 40
+[06-Jan-2019 23:55:45 Asia/Karachi] PHP Parse error:  syntax error, unexpected '?>' in /home/habrorealestate/public_html/beta/application/views/frontend/search.php on line 40
+[07-Jan-2019 01:43:44 Asia/Karachi] PHP Parse error:  syntax error, unexpected '}' in /home/habrorealestate/public_html/beta/application/views/frontend/society_posts.php on line 320
+[07-Jan-2019 01:44:09 Asia/Karachi] PHP Parse error:  syntax error, unexpected '}' in /home/habrorealestate/public_html/beta/application/views/frontend/society_posts.php on line 320
+[07-Jan-2019 02:49:19 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/habrorealestate/public_html/beta/application/views/frontend/search.php on line 330
+[07-Jan-2019 02:49:51 Asia/Karachi] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF) in /home/habrorealestate/public_html/beta/application/views/frontend/search.php on line 111
+[06-Jan-2019 22:29:16 UTC] PHP Fatal error:  Cannot redeclare Home::rent() in /home/habrorealestate/public_html/beta/application/controllers/Home.php on line 496
+[06-Jan-2019 22:29:50 UTC] PHP Fatal error:  Cannot redeclare Home::rent() in /home/habrorealestate/public_html/beta/application/controllers/Home.php on line 496
+[07-Jan-2019 03:34:29 Asia/Karachi] PHP Parse error:  syntax error, unexpected ')' in /home/habrorealestate/public_html/beta/application/views/frontend/header.php on line 163
+[07-Jan-2019 04:54:55 Asia/Karachi] PHP Parse error:  syntax error, unexpected end of file in /home/habrorealestate/public_html/beta/application/views/frontend/agents.php on line 209
+[07-Jan-2019 04:56:50 Asia/Karachi] PHP Parse error:  syntax error, unexpected end of file in /home/habrorealestate/public_html/beta/application/views/frontend/agents.php on line 193
+[07-Jan-2019 05:25:38 Asia/Karachi] PHP Parse error:  syntax error, unexpected ''<label style="color:#00aced;"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/habrorealestate/public_html/beta/application/views/frontend/agent_search.php on line 9
+[07-Jan-2019 05:26:13 Asia/Karachi] PHP Parse error:  syntax error, unexpected ''<label style="color:#00aced;"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/habrorealestate/public_html/beta/application/views/frontend/agent_search.php on line 9
+[07-Jan-2019 16:47:21 Asia/Karachi] PHP Parse error:  syntax error, unexpected '0' (T_LNUMBER) in /home/habrorealestate/public_html/beta/application/views/frontend/agent_search.php on line 67
+[07-Jan-2019 18:09:31 Asia/Karachi] PHP Parse error:  syntax error, unexpected end of file in /home/habrorealestate/public_html/beta/application/views/frontend/agent_detail.php on line 1628
+[07-Jan-2019 18:25:01 Asia/Karachi] PHP Parse error:  syntax error, unexpected end of file in /home/habrorealestate/public_html/beta/application/views/frontend/agent_detail.php on line 291
+[07-Jan-2019 18:25:05 Asia/Karachi] PHP Parse error:  syntax error, unexpected end of file in /home/habrorealestate/public_html/beta/application/views/frontend/agent_detail.php on line 291
+[07-Jan-2019 18:57:04 Asia/Karachi] PHP Parse error:  syntax error, unexpected '?>', expecting ']' in /home/habrorealestate/public_html/beta/application/views/frontend/agent_detail.php on line 113
+[07-Jan-2019 18:57:09 Asia/Karachi] PHP Parse error:  syntax error, unexpected '?>', expecting ']' in /home/habrorealestate/public_html/beta/application/views/frontend/agent_detail.php on line 113
+[09-Jan-2019 18:58:51 Asia/Karachi] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/habrorealestate/public_html/beta/application/views/frontend/header-3.php on line 1
+[09-Jan-2019 19:00:13 Asia/Karachi] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/habrorealestate/public_html/beta/application/views/frontend/header-3.php on line 1
+[10-Jan-2019 01:33:56 Asia/Karachi] PHP Parse error:  syntax error, unexpected '{' in /home/habrorealestate/public_html/beta/application/views/frontend/header.php on line 178
+[10-Jan-2019 01:33:59 Asia/Karachi] PHP Parse error:  syntax error, unexpected '{' in /home/habrorealestate/public_html/beta/application/views/frontend/header.php on line 178
+[10-Jan-2019 02:02:56 Asia/Karachi] PHP Parse error:  syntax error, unexpected '<' in /home/habrorealestate/public_html/beta/application/views/frontend/agent_detail.php on line 235
